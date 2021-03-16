@@ -1,7 +1,7 @@
 {
   "!type": "Label",
-  "align": "left",
-  "alignVertical": "top",
+  "align": "center",
+  "alignVertical": "center",
   "backgroundColor": "",
   "borderColor": "",
   "borderStyle": "",
@@ -15,7 +15,7 @@
   "display": "",
   "expanded_pmp": null,
   "fontFamily": "",
-  "fontSize": 16,
+  "fontSize": "24",
   "fontStyle": "",
   "fontWeight": "bold",
   "height": 162,
