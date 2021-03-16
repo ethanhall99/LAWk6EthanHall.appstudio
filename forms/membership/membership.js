@@ -13,6 +13,7 @@ btnAddItem.onclick=function(){
 }
 */
 
+/*
 membership.onshow=function(){
     BTNsubmit.style.color = "white"
 }
