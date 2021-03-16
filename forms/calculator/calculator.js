@@ -15,7 +15,7 @@ BTNmultiply.onclick=function(){
 }
 
 BTNadd.onclick=function(){
-  sum = INPTnum1.value + INPTnum2.value
+  sum = Number(INPTnum1.value) + Number(INPTnum2.value)
   LBLanswer.textContent = `The sum is ${sum}`
 }
 
