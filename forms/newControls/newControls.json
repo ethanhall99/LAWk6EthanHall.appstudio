@@ -27,6 +27,33 @@
         "Elements",
         "HMBRleft.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "RDBswitch.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "SELECTform.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "BTNgo.json"
+      ]
     }
   ],
   "class": "",
