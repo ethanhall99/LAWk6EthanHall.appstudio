@@ -15,13 +15,13 @@
   "display": "",
   "expanded_pmp": null,
   "fontFamily": "",
-  "fontSize": "24",
+  "fontSize": 16,
   "fontStyle": "",
   "fontWeight": "bold",
-  "height": 162,
+  "height": 54,
   "hidden": "",
-  "id": "LBLmemberYN",
-  "left": 49,
+  "id": "LBLanswer",
+  "left": 51,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -45,6 +45,6 @@
   "script": "",
   "style": "",
   "text": "Label",
-  "top": 37,
-  "width": 334
+  "top": 100,
+  "width": 298
 }
