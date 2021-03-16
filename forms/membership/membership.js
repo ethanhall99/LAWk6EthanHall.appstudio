@@ -25,5 +25,5 @@ BTNsubmit.onclick=function(){
         LBLmemberYN.textContent = "You are not a member."
   }
 }
-
+*/
 
